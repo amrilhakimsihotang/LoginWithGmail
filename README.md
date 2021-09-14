@@ -22,11 +22,11 @@ now configure the created project
 
 
 tambahan:
-untuk create SHAkey dari android studio,
-1.klik settings,klik experimental, dan uncheck do not build gradle task list during gradle sync.
-2.cari signingReport,lalu double klik file tersebut.
-dan isikan configure a project dengan nama project yang sudah dibuat tadi.(point 3), klik next
+untuk create SHAkey dari android studio,<br>
+1.klik settings,klik experimental, dan uncheck do not build gradle task list during gradle sync.<br>
 
+2.cari signingReport,lalu double klik file tersebut.<br>
 
+3.dan isikan configure a project dengan nama project yang sudah dibuat tadi.(point 3), klik next<br>
 
-selanjutnya coding, panduan coding ada pada developer.google.com/identity/sign-in/android/start-integrating
+4.selanjutnya coding, panduan coding ada pada developer.google.com/identity/sign-in/android/start-integrating
